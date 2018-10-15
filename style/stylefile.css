@@ -11,8 +11,8 @@ nav {
 }
 
   li {
-    font-size: 20pt
-    color: #AAAAAA
+    font-size: 20pt;
+    color: #AAAAAA;
   }
 
 .centered{
@@ -26,8 +26,8 @@ vertical-align:center;
 
 }
 
-.{
-
+.lists{
+padding-inline-start:15px;
 }
 
 #tablecaption {
@@ -40,9 +40,13 @@ font-style:italic;
 }
 
 #not-there{
-background-color:#999999;
+background-color:#777777;
 }
 
 *{
+background-color:#999999;
+}
 
+a:hover{
+color:blue;
 }
