@@ -12,9 +12,21 @@ nav {
 }
 
   li {
-    font-size: 20pt;
-    color: #AAAAAA;
+    font-size: 15pt;
+    color: #555555;
   }
+
+a{
+text-decoration:none;
+color:black;
+}
+
+img{
+height:100%;
+width:100%;
+border:1;
+border-radius:5px;
+}
 
 .centered{
 text-align:center;
@@ -28,7 +40,7 @@ vertical-align:center;
 }
 
 .lists{
-padding-inline-start:15px;
+padding-inline-start:20px;
 }
 
 #tablecaption {
@@ -48,6 +60,10 @@ background-color:#777777;
 background-color:#999999;
 }
 
-a:hover{
+a:visited{
 color:blue;
+}
+
+a:hover{
+color:#000000;
 }
