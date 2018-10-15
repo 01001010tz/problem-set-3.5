@@ -15,11 +15,14 @@ nav {
     color: #AAAAAA
   }
 
-.{
-
+.centered{
+text-align:center;
 }
 
-.{
+.rank-number{
+font-weight:bold;
+text-align:center;
+vertical-align:center;
 
 }
 
@@ -28,15 +31,16 @@ nav {
 }
 
 #tablecaption {
-
+font-weight:bold;
+font-size: 20px;
 }
 
-#{
-
+#self-titled{
+font-style:italic;
 }
 
-#{
-
+#not-there{
+background-color:#999999;
 }
 
 *{
